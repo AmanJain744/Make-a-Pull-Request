@@ -14,6 +14,6 @@ R
 Bootstrap
 jQuery
 
-Check out my GitHub- AmanJain744
+Check out my GitHub- AmanJain744<br/>
 
 **Email**: aman.jain744@gmail.com
