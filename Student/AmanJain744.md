@@ -13,6 +13,7 @@ R
 **Frameworks and Technologies that I know:**
 Bootstrap
 jQuery
-Check out my GitHub- AmanJain744
 
-Email: aman.jain744@gmail.com
+<h1>Check out my GitHub</h1>- AmanJain744
+
+**Email**: aman.jain744@gmail.com
