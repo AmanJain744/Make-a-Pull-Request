@@ -1,19 +1,19 @@
-Aman Jain
+<h3>Aman Jain</h3>
 
-**About me:**
+<h5>**About me:**</h5>
 I am a Learner, Coder, Machine Learning geek, a person who loves to explore life.
 
-**Languages that I know:**
+<h5 color="red">**Languages that I know:**</h5>
 HTML
 CSS
 JS
 C
 R
 
-**Frameworks and Technologies that I know:**
+<h5>**Frameworks and Technologies that I know:**</h5>
 Bootstrap
 jQuery
 
-<h1>Check out my GitHub</h1>- AmanJain744
+Check out my GitHub- AmanJain744
 
 **Email**: aman.jain744@gmail.com
