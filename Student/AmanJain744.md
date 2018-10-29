@@ -5,16 +5,16 @@ I am a Learner, Coder, Machine Learning geek, a person who loves to explore life
 
 **<h5 color="red">Languages that I know:</h5>**
 HTML
-CSS
-JS
-C
-R
+<br>CSS
+<br>JS
+<br>C
+<br>R
 
 **<h5>Frameworks and Technologies that I know:</h5>**
 Bootstrap
-jQuery
+<br>jQuery
 
 
-**Check out my GitHub**- AmanJain744<br/>
+**Check out my GitHub**- AmanJain744
 
 **Email**: aman.jain744@gmail.com
